@@ -1,0 +1,19 @@
+{
+  "name": "react-investigation",
+  "version": "1.0.0",
+  "description": "for learning react features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiTimchak/react-investigation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerhiiTimchak/react-investigation/issues"
+  },
+  "homepage": "https://github.com/SerhiiTimchak/react-investigation#readme"
+}
